@@ -1,0 +1,17 @@
+GitHub usage -
+
+Create New repository to GitHub:
+  1. Create local working directory.
+  2. New a repository point to the local directory.
+  3. Publish the repository to the GitHub.
+
+
+Pull a branch from existing repository (master or branch).
+  1. Clone a repository from existing repository.
+  2. Select the working branch on that repository.
+  3. Make new branch on this clone repo.
+  4. Publish the branch to GitHub.
+  5. Start working on the local branch until task completed.
+  6. Create pull request to master branch for code review.
+  7. Merge and commit code change to master branch.
+  8. Delete the local branch.
