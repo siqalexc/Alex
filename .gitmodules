@@ -1,0 +1,6 @@
+[submodule "apps"]
+	path = apps
+	url = https://github.com/siqalexc/apps
+[submodule "test_code"]
+	path = test_code
+	url = https://github.com/siqalexc/test_code
