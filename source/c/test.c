@@ -8,7 +8,9 @@
 #include <unistd.h>
 #include <getopt.h>
 
-
+/*
+ * main function
+ */
 int main(int argc, char *argv[])
 {
     printf("cmd input 1 - argc = %d, argv = %s \n", argc, argv[0]);
